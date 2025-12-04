@@ -2,7 +2,7 @@
 
 PyTorch implementation of ICDICNet.
 
-------
+---
 
 # About dataset
 
